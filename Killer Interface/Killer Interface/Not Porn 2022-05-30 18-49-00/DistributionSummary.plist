@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Not Porn.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A9731E268D00A9A6917BC1B17726A60AFA8EBE20</string>
+				<key>dateExpires</key>
+				<string>2/1/23</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>68L233566P.com.YushRajKapoor.Not-Porn</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array>
+					<string>iCloud.com.YushRajKapoor.NotPorn</string>
+				</array>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudKit</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>68L233566P</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Not Porn.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6e5d74cd-1fdd-4c6b-a7a8-7f05ba3b89fc</string>
+				<key>dateExpires</key>
+				<string>2/1/23</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.YushRajKapoor.Not-Porn</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>68L233566P</string>
+				<key>name</key>
+				<string>Yush Raj Kapoor</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
